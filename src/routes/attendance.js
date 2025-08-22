@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import Attendance from 'src/models/Attendance.js';
+import Attendance from '../models/Attendance.js';
 
 const router = Router();
 
